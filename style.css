@@ -22,8 +22,13 @@ a:hover, a:active {
 	clear: both;
 }
 
+.topMenu li {
+	margin-left: 2%;
+	font-size: 28px;
+}
+
 .mainheader img {
-	width: 30%;
+	width: 15%;
 	height: auto;
 	margin: 2% 0;
 }
